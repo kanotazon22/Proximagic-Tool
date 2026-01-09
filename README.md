@@ -18,4 +18,4 @@ A free, open-source tool for image format conversion, resizing, and compression 
 - No Registration Required
 
 ## Link to use this tool
-Link: https://github.com/kanotazon22/Proximagic-Tool/
+Link: [Click Here!](https://kanotazon22.github.io/Proximagic-Tool/)
